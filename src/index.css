@@ -59,14 +59,14 @@ nav {
     margin-top: 40px;
 }
 
-.main--bullet_list > li {
+.main--bullet_list li {
     font-size: 18px;
     padding-block: 18px;
     max-width: 500px;
 }
 
-.main--bullet_list > li ::marker {
+.main--bullet_list li::marker {
     color: #61DAFB;
-    font-size: 1.7em;
+    font-size: 1.4em;
 }
 
